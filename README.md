@@ -1,1 +1,1 @@
-# MAchineLearning_Fall18
+# MachineLearning_Fall18
